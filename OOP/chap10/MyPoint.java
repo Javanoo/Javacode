@@ -24,6 +24,14 @@ public class MyPoint{
 		return this.y;
 	}
 	
+	public  void setX(double x){
+		this.y = x;
+	}
+	
+	public  void setY(double y){
+		this.y = y;
+	}
+	
 	public static double distance(MyPoint a, MyPoint b){
 		double distance = Math.pow((b.getX() - a.getX()), 0.5) + Math.pow((b.getY() - a.getY()), 0.5);
 		return distance;
