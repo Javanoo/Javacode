@@ -11,4 +11,4 @@ Most if not all are cli programs.
 Many other small Programs will be added as i go along the learning curve of Java.  
 In general you simply can say this is my java learning repository.
  `#JavaNewbie`
-#### If You find an issue, or just wanna help do not hestitate to do as i am so new to this stuff, pls do get in touch. :relaxed:
+#### If You find an issue, or just wanna help do not hestitate to do so as i am so new to this stuff, pls do get in touch. :relaxed:
