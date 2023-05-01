@@ -1,6 +1,5 @@
 //The program validates a credit card number based on the algorithm 
-//developed by Hans Luhn of IBM, presented by Dr Y. Liang.
-//implemented by Matthews Offen.
+//developed by Hans Luhn of IBM.
 import java.util.Scanner;
 
 public class CreditCardValidation{
