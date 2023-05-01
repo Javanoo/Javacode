@@ -1,8 +1,8 @@
 # Javacode
 ## Description
-#### This repository only contains some mini java programs that are implemented in other languages.
-#### Mainly selected as part of my Java lessons.
-### for example
+This repository only contains some mini java programs that are implemented in other languages.  
+Mainly selected as part of my Java lessons.  
+### For example
 1. Password Check
 2. Social Security Number Check
 3. Credit Card Validation
