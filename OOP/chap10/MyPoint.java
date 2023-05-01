@@ -25,7 +25,7 @@ public class MyPoint{
 	}
 	
 	public  void setX(double x){
-		this.y = x;
+		this.x = x;
 	}
 	
 	public  void setY(double y){
@@ -33,7 +33,7 @@ public class MyPoint{
 	}
 	
 	public static double distance(MyPoint a, MyPoint b){
-		double distance = Math.pow((b.getX() - a.getX()), 0.5) + Math.pow((b.getY() - a.getY()), 0.5);
+		double distance = (int)((Math.sqrt(Math.pow((b.getX() - a.getX()),2) + Math.pow((b.getY() - a.getY()),2))) * 100)/100.00;
 		return distance;
 	}
 	
@@ -43,7 +43,7 @@ public class MyPoint{
 		System.out.print(", ");
 		double bY = new Scanner(System.in).nextDouble();
 		System.out.println(")");
-		double distance = Math.pow((bX - a.getX()), 0.5) + Math.pow((bY - a.getY()), 0.5);
+		double distance = (int)(Math.sqrt(Math.pow((bX - a.getX()), 2) + Math.pow((bY - a.getY()), 2)) * 100)/100.0;
 		return distance;
 	}
 	//EOF
