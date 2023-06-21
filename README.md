@@ -14,4 +14,3 @@ In general you simply can say this is my java learning repository.
  
  ---
  
-**If You find an issue, or just wanna help do not hestitate to reach out, as i am so new to this stuff, pls do get in touch. :relaxed:**
