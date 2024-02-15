@@ -1,4 +1,4 @@
-//This program attempts to solve the linear equation using cramers rule.
+//This program attempts to solve a linear equation problem using cramers rule.
 //linear equation :
 /* 3.4x + 50.2y = 44.5
 *  2.1x + .55y = 5.9
