@@ -1,5 +1,7 @@
 # Javacode
 ## Description
+![galton box code snippet image](https://github.com/Javanoo/Javacode/blob/main/Screenshot_GaltonBox.png)
+
 This repository only contains some mini java programs that are implemented in other languages.  
 Mainly selected as part of my Java lessons.    
 For example
