@@ -1,3 +1,5 @@
+//program that counts the repitition of numbers in a given
+//entry or input period
 import java.util.Scanner;
 import java.util.Arrays;
 
